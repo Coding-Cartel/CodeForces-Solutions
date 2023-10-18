@@ -15,9 +15,7 @@ This meticulously curated collection offers comprehensive solutions to Codeforce
 ## 📚 Table of Contents
 
 - 👋 Introduction
-- 📁 Folder Structure
 - 🤝 Contribution Guidelines
-- 🚀 Our Mission
 - 📜 License
 
 ## 👋 Introduction
@@ -49,3 +47,6 @@ Ready to embark on a coding adventure with us? Here's a quick guide:</p>
 
 This repository is licensed under the MIT License. By contributing your wisdom to this repository, you pledge to share your knowledge under the same license.<br><br>
 <p align="center">
+
+<p align="center">
+Happy coding, explorer! 🌟 May your code be as adventurous as your journey, and your algorithms as groundbreaking as your discoveries! 🚀🔍💻</p>
